@@ -1,10 +1,11 @@
 package org.algorithm.example.order;
 
+import org.algorithm.example.common.CommonUtils;
+
 public class 冒泡排序 {
     public static void main(String[] args) {
-        System.out.println("hello world");
         int[] nums = {100, 1000, 1, 99, 20, 10, 5, 100};
-        printArray(bubbleSort(nums));
+        CommonUtils.printArray(bubbleSort(nums));
 
     }
 
@@ -26,12 +27,6 @@ public class 冒泡排序 {
     }
 
 
-    public static void printArray(int nums[]) {
-        for (int n = 0; n < nums.length; n++) {
-            System.out.println(nums[n]);
-        }
-
-    }
 }
 
 

@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f876e2-4b60-4180-90ff-04f8aa8b3563" name="Changes" comment="冒泡排序">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/common/CommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_1两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_2回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_3罗马数字转整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_4最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_5有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_6合并两个有序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_7删除有序数组中的重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_8移除元素.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/algorithm/example/order/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/order/冒泡排序.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +47,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.E_1两数之和.executor": "Run",
+    "Application.E_2回文数.executor": "Run",
+    "Application.E_3罗马数字转整数.executor": "Run",
+    "Application.E_4最长公共前缀.executor": "Run",
+    "Application.E_5有效的括号.executor": "Run",
+    "Application.E_6合并两个有序链表.executor": "Run",
+    "Application.E_7删除有序数组中的重复项.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.冒泡排序.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.冒泡排序">
-    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.order.冒泡排序" />
+  <component name="RunManager" selected="Application.E_7删除有序数组中的重复项">
+    <configuration name="E_3罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_3罗马数字转整数" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.algorithm.example.order.*" />
+          <option name="PATTERN" value="org.algorithm.example.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +77,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="E_4最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_4最长公共前缀" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.algorithm.example.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_5有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_5有效的括号" />
+      <module name="AlgorithmLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.example.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_6合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_6合并两个有序链表" />
+      <module name="AlgorithmLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.example.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_7删除有序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_7删除有序数组中的重复项" />
+      <module name="AlgorithmLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.example.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.冒泡排序" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.E_7删除有序数组中的重复项" />
+        <item itemvalue="Application.E_6合并两个有序链表" />
+        <item itemvalue="Application.E_5有效的括号" />
+        <item itemvalue="Application.E_4最长公共前缀" />
+        <item itemvalue="Application.E_3罗马数字转整数" />
       </list>
     </recent_temporary>
   </component>
@@ -98,8 +159,40 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="冒泡排序" />
     <option name="LAST_COMMIT_MESSAGE" value="冒泡排序" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_3罗马数字转整数.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_4最长公共前缀.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_4最长公共前缀.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
