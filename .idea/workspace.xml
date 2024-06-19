@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6f876e2-4b60-4180-90ff-04f8aa8b3563" name="Changes" comment="冒泡排序">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/common/CommonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_1两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_2回文数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_3罗马数字转整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_4最长公共前缀.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_5有效的括号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_6合并两个有序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_7删除有序数组中的重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_8移除元素.java" afterDir="false" />
+    <list default="true" id="d6f876e2-4b60-4180-90ff-04f8aa8b3563" name="Changes" comment="Easy_001">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_10搜索插入位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_11最后一个单词的长度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_12加一.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_13二进制求和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_14x的平方根.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_15爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_16删除排序链表中的重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/easy/E_17合并两个有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/xx.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/algorithm/example/order/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/algorithm/example/order/冒泡排序.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/A-广度优先搜索.sql" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -47,6 +49,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.E_12加一.executor": "Run",
+    "Application.E_13二进制求和.executor": "Run",
+    "Application.E_14x的平方根.executor": "Run",
+    "Application.E_15爬楼梯.executor": "Run",
+    "Application.E_16删除排序链表中的重复元素.executor": "Run",
     "Application.E_1两数之和.executor": "Run",
     "Application.E_2回文数.executor": "Run",
     "Application.E_3罗马数字转整数.executor": "Run",
@@ -60,12 +67,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.E_7删除有序数组中的重复项">
-    <configuration name="E_3罗马数字转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_3罗马数字转整数" />
+  <component name="RunManager" selected="Application.E_16删除排序链表中的重复元素">
+    <configuration name="E_12加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_12加一" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_4最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_4最长公共前缀" />
+    <configuration name="E_13二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_13二进制求和" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_5有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_5有效的括号" />
+    <configuration name="E_14x的平方根" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_14x的平方根" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_6合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_6合并两个有序链表" />
+    <configuration name="E_15爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_15爬楼梯" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_7删除有序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_7删除有序数组中的重复项" />
+    <configuration name="E_16删除排序链表中的重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.example.easy.E_16删除排序链表中的重复元素" />
       <module name="AlgorithmLab" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E_7删除有序数组中的重复项" />
-        <item itemvalue="Application.E_6合并两个有序链表" />
-        <item itemvalue="Application.E_5有效的括号" />
-        <item itemvalue="Application.E_4最长公共前缀" />
-        <item itemvalue="Application.E_3罗马数字转整数" />
+        <item itemvalue="Application.E_16删除排序链表中的重复元素" />
+        <item itemvalue="Application.E_15爬楼梯" />
+        <item itemvalue="Application.E_14x的平方根" />
+        <item itemvalue="Application.E_13二进制求和" />
+        <item itemvalue="Application.E_12加一" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +175,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
